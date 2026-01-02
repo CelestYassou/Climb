@@ -1,0 +1,7 @@
+{
+  "name": "ClimbScan",
+  "description": "An AI-powered climbing companion that scans walls to identify routes, suggest difficulty grades, and plan your moves.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
